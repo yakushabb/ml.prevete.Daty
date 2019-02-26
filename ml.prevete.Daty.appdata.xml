@@ -14,7 +14,7 @@
       Use Daty to search, select, read, batch edit items, script actions, share, visualize proposed changes and bots.
     </p>
     <p>
-      ATTENTION: This is a preview release, so entities editing is disabled.
+      WARNING: This is a preview release, so entities editing is disabled.
     </p>
   </description>
   <url type="homepage">https://gitlab.gnome.org/World/Daty/</url>
