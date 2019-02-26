@@ -18,7 +18,7 @@
     </p>
   </description>
   <url type="homepage">https://gitlab.gnome.org/World/Daty/</url>
-  <url type="help">https://gitlab.gnome.org/World/Daty/#documentation</url>
+  <url type="help">http://daty.prevete.ml</url>
   <url type="bugtracker">https://gitlab.gnome.org/World/Daty/issues</url>
   <url type="donation">http://patreon.com/tallero</url>
   <screenshots>
@@ -32,10 +32,29 @@
       <image>https://gitlab.gnome.org/World/Daty/raw/master/screenshots/mobile-view-sidebar.png</image>
     </screenshot>
     <screenshot>
+      <image>https://gitlab.gnome.org/World/Daty/raw/master/screenshots/search.png</image>
+    </screenshot>
+    <screenshot>
       <image>https://gitlab.gnome.org/World/Daty/raw/master/screenshots/free-text-search.png</image>
     </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/World/Daty/raw/master/screenshots/open-dialog-search-select.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://gitlab.gnome.org/World/Daty/raw/master/screenshots/filter-search.png</image>
+    </screenshot>
   </screenshots>
-  <releases>
+
+
+<releases>
+    <release date="2019-02-26" version="1.0b">
+      <description>
+        <p>Open dialog: made more intuitive, now with filter search!</p>
+        <p>Help: now there is an help.</p>
+        <p>References: unsourced references are signaled visually;</p>
+        <p>Editor: in-page search filters property labels, too.</p>
+      </description>
+    </release>
     <release date="2019-02-01" version="1.0a3">
       <description>
         <p>Wikidata: implemented a primitive cache;</p>
