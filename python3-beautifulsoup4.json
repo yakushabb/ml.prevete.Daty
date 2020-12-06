@@ -7,13 +7,13 @@
     "sources": [
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/0b/44/0474f2207fdd601bb25787671c81076333d2c80e6f97e92790f8887cf682/soupsieve-1.9.3-py2.py3-none-any.whl",
-            "sha256": "a5a6166b4767725fd52ae55fee8c8b6137d9a51e9f1edea461a062a759160118"
+            "url": "https://files.pythonhosted.org/packages/6f/8f/457f4a5390eeae1cc3aeab89deb7724c965be841ffca6cfca9197482e470/soupsieve-2.0.1-py3-none-any.whl",
+            "sha256": "1634eea42ab371d3d346309b93df7870a88610f0725d47528be902a0d95ecc55"
         },
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/1a/b7/34eec2fe5a49718944e215fde81288eec1fa04638aa3fb57c1c6cd0f98c3/beautifulsoup4-4.8.0-py3-none-any.whl",
-            "sha256": "f040590be10520f2ea4c2ae8c3dae441c7cfff5308ec9d58a0ec0c1b8f81d469"
+            "url": "https://files.pythonhosted.org/packages/d1/41/e6495bd7d3781cee623ce23ea6ac73282a373088fcd0ddc809a047b18eae/beautifulsoup4-4.9.3-py3-none-any.whl",
+            "sha256": "fff47e031e34ec82bf17e00da8f592fe7de69aeea38be00523c04623c04fb666"
         }
     ]
 }

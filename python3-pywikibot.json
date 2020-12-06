@@ -7,33 +7,33 @@
     "sources": [
         {
             "type": "file",
+            "url": "https://files.pythonhosted.org/packages/a2/38/928ddce2273eaa564f6f50de919327bf3a00f091b5baba8dfa9460f3a8a8/idna-2.10-py2.py3-none-any.whl",
+            "sha256": "b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0"
+        },
+        {
+            "type": "file",
+            "url": "https://files.pythonhosted.org/packages/5e/a0/5f06e1e1d463903cf0c0eebeb751791119ed7a4b3737fdc9a77f1cdfb51f/certifi-2020.12.5-py2.py3-none-any.whl",
+            "sha256": "719a74fb9e33b9bd44cc7f3a8d94bc35e4049deebe19ba7d8e108280cfd59830"
+        },
+        {
+            "type": "file",
             "url": "https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl",
             "sha256": "fc323ffcaeaed0e0a02bf4d117757b98aed530d9ed4531e3e15460124c106691"
         },
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/e6/60/247f23a7121ae632d62811ba7f273d0e58972d75e58a94d329d51550a47d/urllib3-1.25.3-py2.py3-none-any.whl",
-            "sha256": "b246607a25ac80bedac05c6f282e3cdaf3afb65420fd024ac94435cabe6e18d1"
+            "url": "https://files.pythonhosted.org/packages/f5/71/45d36a8df68f3ebb098d6861b2c017f3d094538c0fb98fa61d4dc43e69b9/urllib3-1.26.2-py2.py3-none-any.whl",
+            "sha256": "d8ff90d979214d7b4f8ce956e80f4028fc6860e4431f731ea4a8c08f23f99473"
         },
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/14/2c/cd551d81dbe15200be1cf41cd03869a46fe7226e7450af7a6545bfc474c9/idna-2.8-py2.py3-none-any.whl",
-            "sha256": "ea8b7f6188e6fa117537c3df7da9fc686d485087abf6ac197f9c46432f7e4a3c"
+            "url": "https://files.pythonhosted.org/packages/39/fc/f91eac5a39a65f75a7adb58eac7fa78871ea9872283fb9c44e6545998134/requests-2.25.0-py2.py3-none-any.whl",
+            "sha256": "e786fa28d8c9154e6a4de5d46a1d921b8749f8b74e28bde23768e5e16eece998"
         },
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/18/b0/8146a4f8dd402f60744fa380bc73ca47303cccf8b9190fd16a827281eac2/certifi-2019.9.11-py2.py3-none-any.whl",
-            "sha256": "fd7c7c74727ddcf00e9acd26bba8da604ffec95bf1c2144e67aff7a8b50e6cef"
-        },
-        {
-            "type": "file",
-            "url": "https://files.pythonhosted.org/packages/51/bd/23c926cd341ea6b7dd0b2a00aba99ae0f828be89d72b2190f27c11d4b7fb/requests-2.22.0-py2.py3-none-any.whl",
-            "sha256": "9cf5292fcd0f598c671cfc1e0d7d1a7f13bb8085e9a590f48c010551dc6c4b31"
-        },
-        {
-            "type": "file",
-            "url": "https://files.pythonhosted.org/packages/af/b5/85df72e222d21371898cdc18ae36192d3fbdf95f58f093d0c2403f42734d/pywikibot-3.0.20190722.tar.gz",
-            "sha256": "a0388717038293202ea92eeb7099e8bd87f258304f371a8a8f87a74e233e9cd4"
+            "url": "https://files.pythonhosted.org/packages/d0/b4/e4c2c72433105ad3e23a0534b7115c5099dd2e7b795bc5577191bae203ac/pywikibot-5.1.0.tar.gz",
+            "sha256": "e81aca046439c8809e3b0132016ff59198e3a90231751e217f451e0eae372a1e"
         }
     ]
 }
