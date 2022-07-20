@@ -13,12 +13,7 @@
         "--metadata=X-DConf=migrate-path=/ml/prevete/Daty/"
     ],
     "modules" : [
-    	"python3-appdirs.json",
-        "python3-beautifulsoup4.json",
-        "python3-bleach.json",
-        "python3-pywikibot.json",
-        "python3-requests.json",
-        "python3-setproctitle.json",
+        "python3-requirements.json",
         {
             "name" : "libhandy",
             "buildsystem" : "meson",
